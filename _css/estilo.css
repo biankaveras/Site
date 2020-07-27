@@ -1,0 +1,23 @@
+@chaset: "UTF-8"
+
+nav#menu {
+	Display: block;
+}
+
+nav#menu ul#1{
+	list-style: none;
+	position: Absolute;
+	}
+
+nav#menu ul{
+	list-style: none;
+	position: Absolute;
+	top: -20px;
+	Left: 950px;}
+
+nav#menu li {
+	display: inline-block;
+	background-color: #dddddd;
+	padding: 10px;
+	margin: 2px;
+	transition: background-color 1s;
