@@ -44,8 +44,12 @@ body{
 	background: #000000;
 }
 
-h1 {
-	color: #ffffff
+h1#flutuante  {
+	color: #ffffff;
+	position: relative;
+	font-size: 50pt;
+	top: 50px;
+	left: 50px;
 }
 
 h2 {
