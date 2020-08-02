@@ -58,3 +58,9 @@ a#preview {
 	text-decoration: none;
 	color: #008080;
 }
+
+/* background */
+
+body {
+	background-image: url('_imagens/fundo-montanha.jpg');
+}
